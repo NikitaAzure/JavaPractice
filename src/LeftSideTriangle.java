@@ -1,4 +1,4 @@
-public class LeftTriangle {
+public class LeftSideTriangle {
     public static void main(String[] args) {
         int n=5;
 
